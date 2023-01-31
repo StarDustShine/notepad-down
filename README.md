@@ -17,18 +17,16 @@ GITEE链接：https://gitee.com/cxasm/notepad--
 
 对比Notepad++而言，我们的优势是可以跨平台，支持linux mac操作系统。
 
-鉴于Notepad++作者的错误言论，Notepad--的意义在于：减少一点错误言论，减少一点自以为是。
+# 鉴于Notepad++作者的错误言论，Notepad--的意义在于：减少一点错误言论，减少一点自以为是。
 
-严正声明，台湾是中国的一部分。
+# 严正声明，台湾是中国的一部分。
 
 您可以在这个项目提交bug或反馈问题。
 
-最新版本下载地址：https://gitee.com/cxasm/notepad--/releases/tag/v1.21
+最新版本下载地址：https://gitee.com/cxasm/notepad--/releases/
 
 由于github访问经常断网，几乎没法提交代码。国内用户请访问 https://gitee.com/cxasm/notepad--
 
 国内下载地址：
 
-最新版本下载地址：https://gitee.com/cxasm/notepad--/releases/tag/v1.21
-
-最新开发预览版本下载地址：https://gitee.com/cxasm/notepad--/releases/tag/v1.21
+最新版本下载地址：https://gitee.com/cxasm/notepad--/releases/
